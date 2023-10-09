@@ -164,7 +164,7 @@ footer p {
   }
 }
 
-@media all and (min-width: 601px) {
+@media all and (min-width: 768px) {
   nav ul {
     display:flex;
     list-style: none;
