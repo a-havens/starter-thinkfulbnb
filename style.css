@@ -118,7 +118,7 @@ footer p {
 
 /* -------  Media Query ------- */
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 768px) {
   main {
     display: flex;
     flex-wrap: wrap;
